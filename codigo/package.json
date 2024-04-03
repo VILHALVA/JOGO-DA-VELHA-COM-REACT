@@ -1,0 +1,15 @@
+{
+  "name": "jogo-da-velha",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.11",
+    "@vitejs/plugin-react": "^4.2.1"
+  }
+}
