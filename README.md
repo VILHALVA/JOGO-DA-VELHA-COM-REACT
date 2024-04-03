@@ -28,10 +28,10 @@ http://localhost:5173/
 Isso abrirá o jogo da velha em seu navegador, onde você poderá começar a jogar imediatamente.
 
 ### 4. Jogue:
-    1. Cada jogador (X e O) faz um movimento clicando em uma das células vazias no tabuleiro.
-    2. O jogo alterna entre os jogadores após cada movimento.
-    3. O jogo informará se houver um vencedor. Quando alguém vencer, o jogo para.
-    4. Para visualizar os movimentos anteriores, você pode clicar nos botões na lista de histórico.
+1. Cada jogador (X e O) faz um movimento clicando em uma das células vazias no tabuleiro.
+2. O jogo alterna entre os jogadores após cada movimento.
+3. O jogo informará se houver um vencedor. Quando alguém vencer, o jogo para.
+4. Para visualizar os movimentos anteriores, você pode clicar nos botões na lista de histórico.
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
